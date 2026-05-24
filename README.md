@@ -4,7 +4,7 @@
 
 Built an interactive multi-page Power BI dashboard to analyze sales, profitability, customer behavior, regional performance, and product insights using business intelligence techniques.
 
-The dashboard enables users to monitor KPIs, identify trends, compare categories, and make data-driven decisions through interactive filters, drill-through navigation, bookmarks, and custom tooltips.
+The dashboard enables users to monitor KPIs, identify trends, compare categories, and make data-driven decisions through interactive filters,Tooltipa, bookmarks, and custom tooltips.
 
 ## 📌 Business Problem
 
