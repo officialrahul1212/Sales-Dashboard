@@ -70,4 +70,42 @@ The solution provides:
 ● Identified performance gaps across regions, products, and customers<br>
 ● Created a centralized and interactive reporting experience
 
+## ScreenShots
+### Page 1 - Executive Summery
+
+<img width="1351" height="763" alt="Screenshot 2026-05-24 232307" src="https://github.com/user-attachments/assets/c22aee87-32e8-4b9e-8f61-546c1405f23f" />
+
+ToolTip
+
+  <img width="1353" height="769" alt="image" src="https://github.com/user-attachments/assets/f6a8ab06-3f74-4c4f-9c83-519796abf60a" />
+
+Bookmark
+
+<img width="1354" height="767" alt="image" src="https://github.com/user-attachments/assets/5b549e80-7b39-4f07-98b9-8ce828c5585a" />
+
+### Page 2 - Regional Performance Analysis
+
+<img width="1354" height="770" alt="Screenshot 2026-05-24 232406" src="https://github.com/user-attachments/assets/fffaf5ae-a5fc-41fe-872a-eeed2fb1fb70" />
+
+ToolTip
+
+<img width="1353" height="767" alt="image" src="https://github.com/user-attachments/assets/ab6212d7-c236-4351-98f4-dc1655e78643" />
+
+### Page 3- Product Performance Analysis
+
+<img width="1355" height="772" alt="Screenshot 2026-05-24 232543" src="https://github.com/user-attachments/assets/7b451b76-9e54-4640-86a0-d8767b963e2f" />
+
+ToolTip
+
+<img width="1347" height="764" alt="image" src="https://github.com/user-attachments/assets/bb0ef8a4-e8b2-4ac9-b62b-be0ef4a99293" />
+
+## Customer & Shipping Analysis
+
+<img width="1355" height="773" alt="Screenshot 2026-05-24 232634" src="https://github.com/user-attachments/assets/371d87e1-c90f-4a5d-bc9f-1bfefafb8b79" />
+
+ToolTip
+
+<img width="1352" height="763" alt="image" src="https://github.com/user-attachments/assets/1cd2a71d-f8d7-45c7-99c4-438b5859fd87" />
+
+
 
