@@ -1,0 +1,51 @@
+Product_ID,Product_Name,Category,Sub_Category,Cost_Price
+PROD-1,Product 1,Furniture,Table,6904
+PROD-2,Product 2,Office Supplies,Laptop,13847
+PROD-3,Product 3,Furniture,Accessories,10780
+PROD-4,Product 4,Furniture,Stationery,1506
+PROD-5,Product 5,Technology,Stationery,13701
+PROD-6,Product 6,Office Supplies,Laptop,4289
+PROD-7,Product 7,Furniture,Stationery,13392
+PROD-8,Product 8,Office Supplies,Chair,1776
+PROD-9,Product 9,Technology,Table,8140
+PROD-10,Product 10,Office Supplies,Accessories,9074
+PROD-11,Product 11,Office Supplies,Storage,2429
+PROD-12,Product 12,Furniture,Table,12286
+PROD-13,Product 13,Furniture,Chair,19964
+PROD-14,Product 14,Furniture,Chair,8162
+PROD-15,Product 15,Office Supplies,Accessories,5106
+PROD-16,Product 16,Furniture,Laptop,7848
+PROD-17,Product 17,Furniture,Laptop,1758
+PROD-18,Product 18,Furniture,Laptop,8236
+PROD-19,Product 19,Technology,Chair,2645
+PROD-20,Product 20,Technology,Stationery,13785
+PROD-21,Product 21,Office Supplies,Chair,9871
+PROD-22,Product 22,Furniture,Laptop,7444
+PROD-23,Product 23,Technology,Laptop,2221
+PROD-24,Product 24,Technology,Storage,18323
+PROD-25,Product 25,Furniture,Table,18448
+PROD-26,Product 26,Technology,Chair,4112
+PROD-27,Product 27,Technology,Accessories,1518
+PROD-28,Product 28,Technology,Accessories,17733
+PROD-29,Product 29,Furniture,Laptop,5847
+PROD-30,Product 30,Office Supplies,Table,1040
+PROD-31,Product 31,Furniture,Table,4674
+PROD-32,Product 32,Furniture,Stationery,841
+PROD-33,Product 33,Technology,Laptop,16948
+PROD-34,Product 34,Office Supplies,Laptop,3922
+PROD-35,Product 35,Furniture,Accessories,7899
+PROD-36,Product 36,Furniture,Laptop,17079
+PROD-37,Product 37,Technology,Chair,3874
+PROD-38,Product 38,Office Supplies,Stationery,3891
+PROD-39,Product 39,Furniture,Storage,11156
+PROD-40,Product 40,Office Supplies,Table,7546
+PROD-41,Product 41,Technology,Chair,14377
+PROD-42,Product 42,Furniture,Accessories,3042
+PROD-43,Product 43,Technology,Table,918
+PROD-44,Product 44,Furniture,Storage,2332
+PROD-45,Product 45,Technology,Laptop,981
+PROD-46,Product 46,Technology,Accessories,13875
+PROD-47,Product 47,Furniture,Storage,19450
+PROD-48,Product 48,Office Supplies,Table,14393
+PROD-49,Product 49,Office Supplies,Chair,3428
+PROD-50,Product 50,Office Supplies,Storage,11349
