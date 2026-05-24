@@ -1,71 +1,73 @@
 # Sales Performance Dashboard | Power BI | Interactive Business Intelligence Dashboard
-
-📌 Project Description
-Overview
+## 📌 Project Description
+### Overview
 
 Built an interactive multi-page Power BI dashboard to analyze sales, profitability, customer behavior, regional performance, and product insights using business intelligence techniques.
 
 The dashboard enables users to monitor KPIs, identify trends, compare categories, and make data-driven decisions through interactive filters, drill-through navigation, bookmarks, and custom tooltips.
 
-📌 Business Problem
+## 📌 Business Problem
 
-The business lacked a centralized reporting system to monitor:
+Businesses often struggle to monitor performance because sales, product, customer, shipping, and regional data are spread across multiple tables and reports.
 
-Overall sales performance
-Region-wise profitability
-Top and low-performing products
-Customer purchasing behavior
-Shipping cost efficiency
+This makes it difficult to answer critical questions such as:
 
-Decision-making was slow because data existed across multiple tables without clear visualization.
+● Which regions generate the highest sales and profit?<br>
+● Which products drive revenue and which underperform?<br>
+● Which customer segments contribute most to sales?<br>
+● How much shipping cost impacts overall performance?<br>
+● How can management quickly track KPIs and trends?
 
-📌 Solution
+● As a result, reporting becomes manual, slow, and decision-making lacks visibility.
 
-Developed an interactive Power BI dashboard to transform raw business data into actionable insights.
+## 📌 Solution
 
-Implemented:
+Designed and developed an interactive multi-page Power BI Sales Analytics Dashboard to convert raw transactional data into actionable business insights.
 
-Executive Summary for high-level monitoring
-Regional performance analysis
-Product performance tracking
-Customer & shipping analytics
-Dynamic filters and interactive navigation
-📌 Dashboard Features
-Executive Summary
-KPI cards
-Sales & profit trends
-Category analysis
-Segment analysis
-Custom tooltips
-Regional Analysis
-Region-wise sales and profitability
-Geographic sales map
-Regional drill-through navigation
-Product Analysis
-Top and bottom product performance
-Sales distribution analysis
-Product profitability tracking
-Customer & Shipping
-Customer segmentation
-Shipping cost analysis
-Customer sales ranking
-📌 Advanced Power BI Features Used
-✔ Power Query
-✔ Data Modeling
-✔ DAX Measures
-✔ Drill-through
-✔ Custom Tooltip Pages
-✔ Bookmarks
-✔ Dynamic Filters
-✔ KPI Cards
-✔ Treemap
-✔ Maps
-✔ Interactive Navigation
-✔ Dark Dashboard UI
-✔ Multi-page Dashboard Design
-📌 Business Impact
-Reduced manual reporting effort through centralized dashboards
-Improved visibility into sales and profitability trends
-Enabled faster business decision-making
-Identified high-performing regions, products, and customer segments
-Improved stakeholder reporting experience
+The solution provides:
+
+### Executive Summary
+
+● Centralized KPI monitoring<br>
+● Sales, profit, orders, and margin overview<br>
+● Trend and segment analysis
+
+### Regional Performance Analysis
+
+● Region-wise sales and profitability comparison<br>
+● Geographic sales visualization<br>
+● Regional drill-through exploration
+
+### Product Performance Analysis
+
+● Top-performing and underperforming products<br>
+● Category contribution analysis<br>
+● Product profitability tracking
+
+### Customer & Shipping Analysis
+
+● Customer segmentation<br>
+● Shipping cost monitoring<br>
+● Customer purchasing behavior analysis
+
+## 📌 Additional interactive capabilities implemented:
+
+✔ DAX Measures<br>
+✔ Power Query<br>
+✔ Drill-through Navigation<br>
+✔ Custom Tooltips<br>
+✔ Bookmarks<br>
+✔ Dynamic Filters<br>
+✔ Interactive Navigation<br>
+✔ Dark Theme Dashboard<br>
+✔ Multi-page Reporting
+
+## 📌 Business Outcome
+
+● Improved visibility across sales and operational metrics<br>
+● Reduced manual reporting effort<br>
+● Enabled faster business decision-making<br>
+● Identified performance gaps across regions, products, and customers<br>
+● Created a centralized and interactive reporting experience
+
+
